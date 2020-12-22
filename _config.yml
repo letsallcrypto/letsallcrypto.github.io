@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       LetsAllCrypto
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      LetsAllCrypto
+description: "Reject FIAT money - Go for Crypto"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://letsallcrypto.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -65,17 +65,17 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
-share_hackernews: false
+share_hackernews: true
 
 text:
   pagination:
